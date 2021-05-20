@@ -1,2 +1,2 @@
 # first-github-project
-hello github i don't love other source controls
+this is the first github project in iti
